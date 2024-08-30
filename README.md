@@ -1,1 +1,1 @@
-# ** Human Activities and Posture Transitions Classification using Deep Learning**
+# **Human Activities and Posture Transitions Classification using Deep Learning**
